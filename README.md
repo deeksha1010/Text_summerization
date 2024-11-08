@@ -10,6 +10,6 @@ In this project, we leverage transformer models to generate coherent and context
 
 - Generate text based on custom input. ✏️
 - Utilize pretrained models for quick and effective results. ⚡
-- Customize parameters like maximum output length and beam search for improved generation quality.📈
+- Customize parameters like maximum output length and beam search for improved generation quality.📈 
 
 
